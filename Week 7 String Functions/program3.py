@@ -1,0 +1,20 @@
+#Program No.3 String Methods and Functions
+string = "   Hello world!   "
+print(f"string = |{string}|")
+print()
+print("SOME STRING FUNCTION")
+print(f"string.lower(): |{string.lower()}|")
+print(f"string.upper(): |{string.upper()}|")
+print(f"string.title(): |{string.title()}|")
+print(f"string.swapcase(): |{string.swapcase()}|")
+print()
+print(f"string.strip(): |{string.strip()}|")
+print(f"string.lstrip(): |{string.lstrip()}|")
+print(f"string.rstrip(): |{string.rstrip()}|")
+print()
+print(f"string.center(20): |{string.center(20)}|")
+print(f"string.ljust(20): |{string.ljust(20)}|")
+print(f"string.rjust(20): |{string.rjust(20)}|")
+print()
+print(f"string.replace('world,'COMP1753'): |{string.replace('tri','phan')}|")
+
